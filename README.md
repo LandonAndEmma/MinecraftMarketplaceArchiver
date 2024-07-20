@@ -1,2 +1,2 @@
 # MinecraftBedrockMarketplaceArchiver
-Archive all Minecraft Marketplace Pass downloads with a simple script
+Archive all of your Minecraft Marketplace downloads with a simple python script
